@@ -1,3 +1,0 @@
-Git will not allow empty directories to be pushed to the repository. This file
-has been created so that this package can be pushed to the seed repository. It
-is safe to delete it once another file has been created inside of this package.
